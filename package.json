@@ -7,4 +7,9 @@
     "url": "?.git"
   },
   "author": "Uwe Temme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-coffee": "^3.0.3",
+    "gulp-util": "^3.0.8"
+  }
 }
